@@ -27,3 +27,17 @@
   </a>
 </div>
 
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,js,nodejs,express,react,aws,gcp" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
