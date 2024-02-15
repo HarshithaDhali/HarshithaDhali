@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **OpenAI Clone**
+ 🔭 I’m currently working on **FullStack Projects**
  
  🌱 I’m currently learning **Node.js ,Express.js ,AWS ,GCP**
 
